@@ -1,0 +1,12 @@
+*{
+    background: lightblue;
+}
+
+.board button {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  border-radius: 50px;
+  border: 3px solid #696969;
+  margin: 1px;
+}
