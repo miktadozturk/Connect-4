@@ -119,5 +119,4 @@ $('.board button').on('click',function() {
         $('h3').text(currentName+": It is your turn, please pick a column to drop your yellow chip.").css("fontFamily", "ubuntu");
         currentColor = player2Color;
     }
-
 });
